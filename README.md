@@ -1,11 +1,18 @@
 # Énoncé du projet de Web2 2026-2027
 
-Vous devez réaliser un projet web pour un **vrai client**. Celui-ci a exposé ses besoins le **15 octobre 2026** ; vous avez dû en prendre note. Des **documents** fournis par le client sont (ou seront) disponibles **à côté de cet énoncé**. Assurez-vous de toujours respecter ce qui a été défini avec votre client.
+Vous devez réaliser un projet web pour un **vrai client**. Celui-ci a exposé ses besoins le **15 octobre 2026** ; vous avez dû en prendre note. Des **documents** fournis par le client sont disponibles dans le dossier [`Documents/`](Documents/). Assurez-vous de toujours respecter ce qui a été défini avec votre client.
 
 Le client n’étant pas toujours disponible, **le professeur prend la place du client par défaut** : en son absence, c’est lui qui tranche les décisions fonctionnelles et valide les choix.
 
 Nous attirons votre attention que vous devez développer votre logiciel de manière itérative (un ensemble de fonctionnalités/couches à la fois). Commencez par ce que le client estime essentiel, puis continuez avec ce qu’il juge important et finalement ce qui est accessoire.
 
+### Documents fournis par le client
+
+Dans le dossier [`Documents/`](Documents/), vous trouverez :
+
+- **`Projet daccueil - Version finale_compressed.pdf`** — document de cadrage du client (« Projet d’accueil », version finale). À lire en complément de vos notes du 15 octobre.
+- **`Photos 1/`** — lot de photos fournies par le client (fichiers `DSC*.jpg`), utilisables pour illustrer et contextualiser le lieu / le projet.
+- **`Photos 2/`** — second lot de photos, dont certaines déjà nommées (par ex. façade, jardin, cour de récréation, sas, préau), également destinées au contenu du site.
 
 ## 1. **Structure et Style**
 
@@ -35,7 +42,7 @@ Votre application web doit respecter les spécifications suivantes :
 
 ### Recueil des besoins
 
-Vous devez vous assurer que vous avez bien compris les besoins du client (notes du 15 octobre, documents à côté de cet énoncé, et décisions prises ensuite — le professeur faisant office de client par défaut). Toute fonctionnalité manquante ou non conforme aux spécifications pourra entraîner des pénalités. Vous devez également être capable d'expliquer votre code et de justifier vos choix de conception.
+Vous devez vous assurer que vous avez bien compris les besoins du client (notes du 15 octobre, documents du dossier [`Documents/`](Documents/), et décisions prises ensuite — le professeur faisant office de client par défaut). Toute fonctionnalité manquante ou non conforme aux spécifications pourra entraîner des pénalités. Vous devez également être capable d'expliquer votre code et de justifier vos choix de conception.
 
 Pour cela, vous devrez établir une maquette complète de votre application web avant de commencer le développement. Cette maquette doit être validée par le client (ou par le professeur en son absence) avant de commencer le développement.
 
