@@ -1,0 +1,34 @@
+{
+  "name": "enonce",
+  "version": "1.0.0",
+  "description": "Vous devez réaliser un projet web pour un **vrai client**. Celui-ci a exposé ses besoins le **15 octobre 2026** ; vous avez dû en prendre note. Des **documents** fournis par le client sont disponibles dans le dossier [`Documents/`](Documents/). Assurez-vous de toujours respecter ce qui a été défini avec votre client.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "init": "node src/db/seed.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2026-2027-HELHa-Web2/Enonce.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/2026-2027-HELHa-Web2/Enonce/issues"
+  },
+  "homepage": "https://github.com/2026-2027-HELHa-Web2/Enonce#readme",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "cors": "^2.8.6",
+    "dotenv": "^18.0.10",
+    "express": "^5.3.0",
+    "express-validator": "^7.3.2",
+    "helmet": "^8.3.0",
+    "jsonwebtoken": "^9.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}

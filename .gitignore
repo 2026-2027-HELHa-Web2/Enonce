@@ -1,1 +1,5 @@
 FAQ Client.md
+node_modules
+.env
+src/data/*.sqlite3
+src/data/*.sqlite*
